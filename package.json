@@ -1,0 +1,13 @@
+{
+  "name": "kinza-currency_converter_app",
+  "version": "1.0.0",
+  "description": "\"Currency Converter app using typescript, nodejs and inquirer.\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Kinza\"",
+  "license": "MIT"
+}
